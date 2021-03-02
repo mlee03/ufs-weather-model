@@ -1,7 +1,7 @@
 [submodule "FV3"]
   path = FV3
-  url = https://github.com/NOAA-EMC/fv3atm
-  branch = develop
+  url = https://github.com/mlee03/fv3atm.git
+  branch = mkl/fv3gfsio_fms2io_update
 [submodule "NEMS"]
   path = NEMS
   url = https://github.com/NOAA-EMC/NEMS
